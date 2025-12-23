@@ -42,7 +42,7 @@ project-root/
 ### Clone the repository
 
 ```bash
-git clone <[https://github.com/JCaesar45/Compare-a-list-of-strings]>
+git clone <https://github.com/JCaesar45/Compare-a-list-of-strings>
 cd <repository-folder>
 ``
 
